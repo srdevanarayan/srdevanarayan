@@ -1,11 +1,21 @@
 <h1 align="center">Hi 👋, I'm Devanarayan S R</h1>
 <h3 align="center">A CSE student who's passionate about learning new technologies and building new things.</h3>
 
+- 🔭 I’m currently working on **a blockchain-based patient medical record system, which also utilises Ciphertext Policy - Attribute Based Encryption for data encryption and privacy.**
+
+- 🌱 I’m currently learning **blockchain development.**
+
+- 🤝 I’m looking for help with **internships and job opportunities.**
+
+- 💬 Ask me about **my projects, skills and interests.**
+
 - 📫 How to reach me **srdevcode@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/srdevanarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srdevanarayan" height="30" width="40" /></a>
+<a href="https://instagram.com/srdevanarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srdevanarayan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srdevcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srdevcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
